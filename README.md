@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Random Advice Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is a funny / random advice generator that I built using React. 
+
+## Getting Started 
+
+This project was bootstrapped with [React](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
